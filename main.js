@@ -1,4 +1,96 @@
 //CONDICIONALES y VARIABLES
+//Tipos de variables
+/*
+var nombre = "Miguel";
+var apellido = "Glez.";
+
+var edad = "49";
+console.log(edad)
+console.log(nombre)
+console.log(apellido)
+
+//Escadenado de variables
+var todo = edad +' '+ nombre +' '+ apellido
+console.log(todo)
+
+//Cadenas Buleanas
+let estoyVivo = true;
+let soyMarciano = false;
+console.log("Estoy vivo?" + ' ' +estoyVivo)
+
+//Arrais
+let nombresAlumnos = ["Josué","Atteneri","Luis","Maite"];
+let edadesAlumnos = [1,4,5,10,20,90,345]
+console.log(nombresAlumnos[2]+ ' '+"tiene"+' '+edadesAlumnos[3]+' '+"años.")
+
+//Objetos
+let perro = {nombre: "Pepe", raza: "Dálmata", colorOjos: "marrones", grande: true, edad: 2}
+console.log("Mi perro "+perro.nombre+" es un "+perro.raza +" y "+ "tiene " + perro.edad+" años")
+
+
+let perro1 = {nombre: "Pepe", raza: "Dálmata", colorOjos: "marrones", grande: true, edad: 2}
+let perro2 = {nombre: "Roki", raza: "Chiguagua", colorOjos: "verdes", grande: false, edad: 1}
+console.log(perro2.edad)
+
+//Variables de calculos matemáticos
+var num1 = "100"
+var num2 = "5"
+var num3 = "7"
+var num4 = num2
+console.log(num1+num2)
+console.log(num3-num2)
+console.log(num1/num3)
+console.log(num3*num2)
+
+let suma = num1 + num2;
+console.log("La suma es " + suma)
+
+console.log("La división es" + (num2 / num1) )
+console.log("La resta es " +(num1 * num3))
+
+console.log("El sobrante es " + (num2 / num4))
+
+var num1 = 5;
+var num2 = 10;
+var num3 = "5";
+
+console.log(num1)
+num1 = num1 + 2;
+console.log(num1)
+num2 -= 2;
+console.log(num2)
+
+console.log(num1 == num3)
+console.log(num1 === num3)
+console.log(num1 = num3)
+console.log(num1 != num3)
+console.log(num1 !== num3)
+console.log(num1 !== num3)
+
+var num5 = 4
+var num6 = 4
+console.log(num5 > num5)
+
+//Operaciones de lógica
+var alto = true;
+console.log(num4 == num5 && alto == true)
+
+console.log(num4 == num5 || alto == true)
+
+console.log(num4 == num5 && alto)
+
+console.log((!num4 == num5) && !alto))
+
+
+var num7 = 3
+var num8 = 5
+var num9 = 13
+var igual = true
+console.log(num8 > num9)
+console.log(num7 < num9)
+console.log(num8 == num9)
+console.log((num5 > num5) && igual)) 
+*/
 /*
 let estudiando = false;
 
